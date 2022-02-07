@@ -13,7 +13,7 @@ body {
 </style>
 </head>
 
-<body link="yellow" vlink="green" alink="red" p align="right">
+<body link="green" vlink="yellow" alink="red" p align="right">
 
 <font face="Times New Roman" size=13> <b> <a href="file:///C:/Users/my/Downloads/CLE.html">CLE</a>
 &nbsp &nbsp &nbsp &nbsp
