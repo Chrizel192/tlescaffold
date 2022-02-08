@@ -15,11 +15,11 @@ body {
 
 <body link="green" vlink="yellow" alink="red" p align="right">
 
-<font face="Times New Roman" size=13> <b> <a href="file:///C:/Users/my/Downloads/CLE.html">CLE</a>
+<font face="Times New Roman" size=13> <b> <a href="CLE.php">CLE</a>
 &nbsp &nbsp &nbsp &nbsp
-<a href="file:///C:/Users/my/Downloads/CAE.html">CAE</a>
+<a href="CAE.php">CAE</a>
 &nbsp &nbsp &nbsp &nbsp
-<a href="file:///C:/Users/my/Downloads/MATH.html">MATH</a> &nbsp &nbsp &nbsp &nbsp &nbsp
+<a href="MATH.php">MATH</a> &nbsp &nbsp &nbsp &nbsp &nbsp
 
 </p> </font> </b>
 
